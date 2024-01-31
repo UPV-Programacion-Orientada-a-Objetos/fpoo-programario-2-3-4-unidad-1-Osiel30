@@ -5,22 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24ef768d-cec4-47bc-a650-f7a7276d1879" name="Changes" comment="Se genera el ProblemaUno con su test y su metodo.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/Problema5/Estatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/Problema5/ProblemaCinco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/EstaturaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/Problema6/Ahorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/Problema6/ProblemaSeis.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/ProblemaCuatro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/Problema4/ProblemaCuatro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/ProblemaDos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/Problema2/ProblemaDos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/ProblemaTres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/Problema3/ProblemaTres.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/ProblemaUno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/Problema1/ProblemaUno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/PromedioDeGrupo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/Problema4/PromedioDeGrupo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/Suma10Numeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/Problema1/Suma10Numeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/SumaConCicloDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/Problema3/SumaConCicloDoWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/SumaConCicloFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/Problema2/SumaConCicloFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PromedioDeGrupoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PromedioDeGrupoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Suma10NumerosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Suma10NumerosTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SumaConCicloDoWhileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SumaConCicloDoWhileTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SumaConCicloForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SumaConCicloForTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/EstaturaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/EstaturaTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
