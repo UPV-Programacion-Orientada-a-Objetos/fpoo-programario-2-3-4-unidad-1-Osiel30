@@ -1,4 +1,4 @@
-import edu.upvictoria.fpoo.EstructurasRepetitivas.PromedioDeGrupo;
+import edu.upvictoria.fpoo.EstructurasRepetitivas.Problema4.PromedioDeGrupo;
 import org.junit.jupiter.api.Test;
 import static org.junit.Assert.assertEquals;
 public class PromedioDeGrupoTest {

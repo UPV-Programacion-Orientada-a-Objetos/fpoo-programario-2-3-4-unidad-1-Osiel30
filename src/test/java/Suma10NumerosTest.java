@@ -1,4 +1,4 @@
-import edu.upvictoria.fpoo.EstructurasRepetitivas.Suma10Numeros;
+import edu.upvictoria.fpoo.EstructurasRepetitivas.Problema1.Suma10Numeros;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

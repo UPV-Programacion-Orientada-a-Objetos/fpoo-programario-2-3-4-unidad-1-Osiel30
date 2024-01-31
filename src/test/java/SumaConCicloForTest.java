@@ -1,4 +1,4 @@
-import edu.upvictoria.fpoo.EstructurasRepetitivas.SumaConCicloFor;
+import edu.upvictoria.fpoo.EstructurasRepetitivas.Problema2.SumaConCicloFor;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 public class SumaConCicloForTest {

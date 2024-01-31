@@ -1,4 +1,5 @@
-package edu.upvictoria.fpoo.EstructurasRepetitivas;
+package edu.upvictoria.fpoo.EstructurasRepetitivas.Problema4;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

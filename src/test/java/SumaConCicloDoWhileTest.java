@@ -1,4 +1,4 @@
-import edu.upvictoria.fpoo.EstructurasRepetitivas.SumaConCicloDoWhile;
+import edu.upvictoria.fpoo.EstructurasRepetitivas.Problema3.SumaConCicloDoWhile;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

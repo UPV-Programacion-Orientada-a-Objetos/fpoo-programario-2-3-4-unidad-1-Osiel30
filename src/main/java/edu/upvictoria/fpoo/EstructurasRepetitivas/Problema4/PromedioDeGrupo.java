@@ -1,4 +1,4 @@
-package edu.upvictoria.fpoo.EstructurasRepetitivas;
+package edu.upvictoria.fpoo.EstructurasRepetitivas.Problema4;
 
 public class PromedioDeGrupo {
     public static double calcularPromedio(int[] edades, int numAlumnos) {

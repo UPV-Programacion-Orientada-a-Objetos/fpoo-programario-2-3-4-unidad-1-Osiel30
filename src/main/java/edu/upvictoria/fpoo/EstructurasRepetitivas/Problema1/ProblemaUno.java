@@ -1,22 +1,21 @@
-package edu.upvictoria.fpoo.EstructurasRepetitivas;
+package edu.upvictoria.fpoo.EstructurasRepetitivas.Problema1;
 
 import java.io.BufferedReader;
-import java.io.IOException;
 import java.io.InputStreamReader;
-
-public class ProblemaDos {
+import java.io.IOException;
+public class ProblemaUno {
     public static void main(String[] args){
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         float[] valores= new float[10];
+        int contador = 0;
         try {
-            for(int i=0; i<10;i++){
-                System.out.print("Ingrese el valor " + (i + 1) + ": ");
+            while (contador < 10) {
+                System.out.print("Ingrese el valor " + (contador + 1) + ": ");
                 float valor = Float.parseFloat(br.readLine());
-                valores[i] = valor;
-                i++;
+                valores[contador] = valor;
+                contador++;
             }
-
-            float resultado = SumaConCicloFor.Sumar(valores);
+            float resultado = Suma10Numeros.Sumar(valores);
             System.out.println("La suma de los valores es: " + resultado);
 
 
@@ -25,4 +24,5 @@ public class ProblemaDos {
             e.printStackTrace();
         }
     }
+
 }

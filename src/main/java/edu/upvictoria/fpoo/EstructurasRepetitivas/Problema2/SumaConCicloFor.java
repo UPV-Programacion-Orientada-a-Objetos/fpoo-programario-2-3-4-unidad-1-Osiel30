@@ -1,4 +1,4 @@
-package edu.upvictoria.fpoo.EstructurasRepetitivas;
+package edu.upvictoria.fpoo.EstructurasRepetitivas.Problema2;
 
 public class SumaConCicloFor {
     public static float Sumar(float [] valores){
