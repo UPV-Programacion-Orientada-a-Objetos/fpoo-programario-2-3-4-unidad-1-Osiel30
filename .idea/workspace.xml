@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24ef768d-cec4-47bc-a650-f7a7276d1879" name="Changes" comment="Se genera el ProblemaUno con su test y su metodo.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/Problema7/CantidadesMayorMenor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/Problema7/ProblemaSiete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CantidadesMayorMenorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/Problema8/ProblemaOcho.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ProblemaCinco.executor": "Run",
+    "Application.ProblemaOcho.executor": "Run",
     "Application.ProblemaUno.executor": "Run",
     "JUnit.CantidadesMayorMenorTest.executor": "Run",
     "JUnit.EstaturaTest.executor": "Run",
