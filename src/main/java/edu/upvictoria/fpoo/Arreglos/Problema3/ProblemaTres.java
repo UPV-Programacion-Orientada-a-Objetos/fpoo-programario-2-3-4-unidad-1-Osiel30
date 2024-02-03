@@ -15,8 +15,7 @@ public class ProblemaTres {
 
         System.out.println("Ingrese los nombres y promedios de los estudiantes:");
         ingresarDatosEstudiantes(nombres, promedios, br);
-
-        Ordenamiento.ordenarPorPromedio(nombres, promedios);
+        Ordenar.ordenarPorPromedio(nombres, promedios);
 
         System.out.println("El ranking de promedios quedaría como:");
         for (int i = 0; i < tamanoArreglo; i++) {

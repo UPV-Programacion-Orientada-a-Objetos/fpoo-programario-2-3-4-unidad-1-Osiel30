@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24ef768d-cec4-47bc-a650-f7a7276d1879" name="Changes" comment="Se genera el ProblemaUno con su test y su metodo.">
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/MenuEstructurasSelectivas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/MenuEstructurasSelectivas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/Problema19/ProblemaDiecinueve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/Problema19/ProblemaDiecinueve.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/Problema20/ProblemaVeinte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/Problema20/ProblemaVeinte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/MenuEstructurasRepetitivas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Arreglos/MenuArreglos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Arreglos/MenuArreglos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Arreglos/Problema3/ProblemaTres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Arreglos/Problema3/ProblemaTres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "Application.MenuEstructurasSelectivas.executor": "Run",
     "Application.ProblemaCatorce.executor": "Run",
     "Application.ProblemaCinco.executor": "Run",
@@ -77,6 +79,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.upvictoria.fpoo.EstructurasRepetitivas" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn exec:java" />
